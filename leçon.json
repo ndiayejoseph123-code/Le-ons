@@ -93,8 +93,75 @@
       "cell24": "",
       "cell25": ""
     }
+  },
+  
+  "ce2-etape-2-niveau-2-mathematiques-activites-de-resolution-de-problemes-l-enonce": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques (Activités de résolution de problèmes) - L'énoncé d'un problème",
+    "lastModified": "2026-02-21T09:57:35.883Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités de résolution de problèmes",
+      "cell3": "60 minutes",
+      "cell4": "DISCIPLINE: Mathématiques (Activités de résolution de problèmes)\n\nCB: Intégrer des données, des consignes et des questions ainsi que la démarche progressive de raisonnement dans des situations de recherche de solutions appropriées\n\nPALIER: Palier 4 : Intégrer des données, des consignes et des questions ainsi que la démarche progressive de raisonnement dans des situations de recherche de solutions appropriées\n\nOA: Construire un énoncé à partir de données ou d'une résolution\n\nOS: Au terme de la séance, l’élève devra être capable de construire un énoncé de problème à partir de données chiffrées et non chiffrées\n\nCONTENUS: L'énoncé d'un problème\n\nMOYENS MATÉRIELS: Tableau noir, données chiffrées (ex: 3 lampes, 2100 F...), ardoises, cahiers de brouillon\n\nMOYENS PÉDAGOGIQUES: Interrogation, recherche individuelle, travail de groupe, démarche d'éveil (exploration, mise en commun, institutionnalisation)\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir (Assane Ndiaye)",
+      "cell5": "Calcul mental et Révision",
+      "cell6": "Propose des exercices de multiplication rapide (ex : multiplier par 10 ou 100) et demande de rappeler les composants essentiels d'un problème (données utiles, inutiles, question).",
+      "cell7": "Calculent mentalement, répondent sur l'ardoise (PLM) et citent les éléments constitutifs d'un énoncé déjà étudiés.",
+      "cell8": "Imprégnation (Mise en situation)",
+      "cell9": "Présente une situation avec des données éparses : « 3 lampes, 2 prises de courant, 2100 F, 1400 F, un compteur ». Pose la question : « Que s’agit-il de faire ? ».",
+      "cell10": "Lisent les données au tableau, s'approprient la consigne et répondent : « Il s'agit de formuler un énoncé de problème ».",
+      "cell11": "Analyse (Exploration et Recherche)",
+      "cell12": "Organise le travail individuel sur brouillon puis les échanges en groupes. Demande de mettre en relation les données pour former des phrases cohérentes.",
+      "cell13": "Recherchent les liens logiques entre les informations chiffrées et non chiffrées, rédigent les phrases du problème et s'assurent de n'oublier aucune donnée essentielle.",
+      "cell14": "Synthèse (Institutionnalisation)",
+      "cell15": "Organise la mise en commun des productions. Aide à dégager les étapes : 1. Identification des données, 2. Mise en relation, 3. Construction des phrases et du texte, 4. Vérification.",
+      "cell16": "Les rapporteurs présentent les énoncés produits. La classe débat sur leur pertinence, valide les meilleures propositions et retient les étapes de construction.",
+      "cell17": "Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose une nouvelle série de données (ex : 2 marcheurs, 80 km, 29 km...) et demande aux élèves d'élaborer un énoncé complet de façon autonome.",
+      "cell19": "Rédigent individuellement le nouvel énoncé dans leur cahier de devoirs pour prouver la maîtrise de l'objectif.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
+  
+    },
+  
+  "ce2-etape-2-niveau-2-mathematiques-activites-de-resolution-de-problemes-reconsti": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques (Activités de résolution de problèmes) - Reconstitution d'énoncés oraux et écrits.",
+    "lastModified": "2026-02-21T10:01:53.424Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités de résolution de problèmes.",
+      "cell3": "60 minutes",
+      "cell4": "DISCIPLINE: Mathématiques (Activités de résolution de problèmes)\n\nCB: Intégrer des données, des consignes et des questions d’un énoncé mathématique ainsi que les démarches de raisonnement dans des situations de recherche de solutions appropriées.\n\nPALIER: Palier 5 : Intégrer des données, des consignes et des questions d’un énoncé mathématique ainsi que les démarches de raisonnement dans des situations de recherche de solutions appropriées.\n\nOA: Reconstituer un énoncé en désordre.\n\nOS: Au terme de la séance, l’élève devra être capable de réorganiser logiquement les éléments d’un énoncé de problème (contexte, données, questions) présenté en désordre.\n\nCONTENUS: Reconstitution d'énoncés oraux et écrits.\n\nMOYENS MATÉRIELS: Tableau noir, énoncés écrits sur des bandes mobiles, ardoises, cahiers de brouillon.\n\nMOYENS PÉDAGOGIQUES: Observation, manipulation, interrogation, travail de groupe, démarche d'éveil (Exploration, Mise en commun, Institutionnalisation).\n\nDOCUMENTATION: Curriculum de l’Éducation de Base (CEB) Étape 2, Le Miroir d'Assane Ndiaye.",
+      "cell5": "Phase 1 : Calcul mental et Révision",
+      "cell6": "Propose des exercices de calcul rapide (ex: multiplier un nombre par 11). Demande ensuite aux élèves de rappeler les composants essentiels d'un problème (histoire/contexte, données utiles, question finale).",
+      "cell7": "Effectuent les calculs sur l'ardoise (procédé PLM) et identifient oralement les parties constitutives d'un énoncé classique.",
+      "cell8": "Phase 2 : Imprégnation (Mise en situation)",
+      "cell9": "Présente au tableau un énoncé dont les phrases sont mélangées (ex: l'exemple des livres de la bibliothèque). Pose la question : « Peut-on résoudre ce problème directement ? Que faut-il faire pour qu'il ait du sens ? ».",
+      "cell10": "Lisent silencieusement, constatent l'absence de lien logique et répondent : « Il faut remettre les phrases dans l'ordre pour comprendre l'histoire ».",
+      "cell11": "Phase 3 : Analyse (Exploration et Recherche)",
+      "cell12": "Organise un travail de groupe. Distribue des bandes de papier contenant les phrases de l'énoncé. Donne la consigne : « Remettez ces phrases dans le bon ordre en commençant par le début de l'histoire et en finissant par la question ».",
+      "cell13": "Manipulent les bandes de texte, échangent au sein du groupe, formulent des hypothèses sur la chronologie des faits et reconstituent l'énoncé sur leurs cahiers de brouillon.",
+      "cell14": "Phase 4 : Synthèse (Institutionnalisation)",
+      "cell15": "Organise la mise en commun des productions. Aide à dégager les étapes de la reconstitution : 1. Trouver la situation de départ (contexte) ; 2. Identifier les actions ou données qui suivent ; 3. Placer la question finale à la fin du texte.",
+      "cell16": "Valident les solutions correctes, participent à l'élaboration du résumé et le notent : « Pour reconstituer un énoncé en désordre, on cherche d'abord l'ordre de l'histoire (chronologie) et on place la question à la fin ».",
+      "cell17": "Phase 5 : Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose individuellement un nouvel énoncé en désordre (ex: le problème de l'achat du mouton de Tabaski). Demande aux élèves de le réorganiser de manière autonome dans leurs cahiers.",
+      "cell19": "Réalisent la tâche individuellement, vérifient la cohérence de leur énoncé et proposent la résolution mathématique correspondante.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
   }
+  
 
 }
+
 
 
