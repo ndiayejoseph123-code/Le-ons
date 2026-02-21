@@ -1,0 +1,33 @@
+{
+  "ce2-addition-soustraction-retenue-50000-99999": {
+    "title": "CE2 - Addition et soustraction avec retenue (50 000 à 99 999)",
+    "lastModified": "2025-01-01T00:00:00.000Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités numériques",
+      "cell3": "60 minutes (30 mn acquisition + 30 mn consolidation-évaluation)",
+      "cell4": "DISCIPLINE: Mathématiques\n\nCB: Intégrer les nombres entiers naturels de 0 à 100 000, les nombres décimaux et fractionnaires simples ainsi que les opérations arithmétiques (sens et techniques) dans des situations de résolution de problèmes de calculs numériques.\n\nPALIER: Palier 4 : Intégrer les nombres entiers naturels de 0 à 100 000, les nombres décimaux et fractionnaires simples ainsi que les opérations arithmétiques (sens et techniques) dans des situations de résolution de problèmes de calculs numériques.\n\nOA: Effectuer des opérations sur les nombres de 50 000 à 99 999.\n\nOS: Au terme de la leçon, l'élève devra être capable de poser et d'effectuer correctement une addition et une soustraction avec retenue sur les nombres de 50 000 à 99 999.\n\nCONTENUS: Addition et soustraction avec retenue des nombres de 50 000 à 99 999.\n\nMOYENS_MATERIELS: Tableau de numération (DM, UM, C, D, U), abaques, ardoises, craie, cahiers de devoirs.\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir (Assane Ndiaye), Cahier d'exercices (Modèle PAAME).",
+      "cell5": "Étape 1 : Calcul mental et Révision",
+      "cell6": "Propose des exercices de calcul rapide (ex: ajouter ou soustraire 9 ou 11 à un nombre). Fait réviser le placement des chiffres dans le tableau de numération jusqu'à 50 000 sur l'ardoise (PLM).",
+      "cell7": "Effectuent les calculs mentalement et inscrivent les nombres proposés dans leur tableau de numération sur l'ardoise.",
+      "cell8": "Étape 2 : Imprégnation (Présentation du problème)",
+      "cell9": "Présente une situation concrète : « Un commerçant possède 75 450 F. Il achète de la marchandise pour 18 675 F. Quelle somme lui reste-t-il ? » ou une addition de populations de deux communes.",
+      "cell10": "Lisent l'énoncé silencieusement puis à haute voix, identifient les données utiles et l'opération à effectuer (addition ou soustraction).",
+      "cell11": "Étape 3 : Analyse (Exploration et Résolution)",
+      "cell12": "Organise le travail en groupes. Demande aux élèves d'effectuer l'opération en utilisant un abaque et de l'inscrire dans un tableau de numération. Insiste sur l'alignement des colonnes et la gestion des retenues.",
+      "cell13": "Manipulent les abaques, effectuent l'opération par tâtonnement puis valident leur résultat en groupe. Ils posent l'opération verticalement en respectant les positions (unités sous unités, etc.).",
+      "cell14": "Étape 4 : Synthèse (Institutionnalisation)",
+      "cell15": "Aide les élèves à dégager la technique opératoire : pour l'addition, on reporte la retenue sur la colonne suivante ; pour la soustraction, on utilise la technique de l'emprunt ou des échanges.",
+      "cell16": "Participent à l'élaboration du résumé « Je retiens ». Répètent la règle : « On commence toujours le calcul par la droite (unités) et on n'oublie pas d'ajouter ou de soustraire les retenues ».",
+      "cell17": "Étape 5 : Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose des exercices de la rubrique « Je m'évalue » : « Pose et effectue : 64 892 + 25 708 » et « 82 000 - 37 450 ». Circule pour aider les élèves en difficulté.",
+      "cell19": "Exécutent individuellement les opérations dans leur cahier de devoirs et participent à la correction collective au tableau.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
+  }
+}
