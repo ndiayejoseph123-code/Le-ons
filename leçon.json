@@ -510,11 +510,117 @@
       "cell24": "Phase 24 : Observation",
       "cell25": "Vérifier l'emploi correct dans les productions de textes de la semaine."
     }
-  }
-    
+  },
+  
+  "ce2-ist-les-vertebres-et-les-invertebres": {
+    "title": "CE2 - IST - Distinction entre animaux vertébrés et invertébrés. Caractéristique principale : présence ou absence d'une colonne vertébrale (squelette interne). Exemples : chat, poisson (vertébrés) ; criquet, ver de terre (invertébrés).",
+    "lastModified": "2026-02-21T23:15:00.000Z",
+    "data": {
+      "cell1": "CE2",
+      "cell2": "Découverte du monde",
+      "cell3": "45 mn",
+      [cite_start]"cell4": "DISCIPLINE: IST (Initiation Scientifique et Technologique)\n\nCB: Intégrer des démarches et des techniques (observation – manipulation – expérimentation…) dans des situations de découverte scientifique et technologique du milieu proche [cite: 9, 2330][cite_start].\n\nPALIER: Palier 3 : Découvrir quelques aspects biologiques de l'animal[cite: 9].\n\nOA: Identifier les grands groupes d'animaux.\n\nOS: Distinguer un animal vertébré d'un animal invertébré.\n\nCONTENUS: Définition vertébré (avec os/squelette) et invertébré (sans os). [cite_start]Exemples locaux.\n\nMOYENS MATÉRIELS: Squelette de poisson, images d'insectes, animaux réels si possible.\n\nMOYENS PÉDAGOGIQUES: Observation, comparaison, classification.\n\nDOCUMENTATION: Guide pédagogique CEB[cite: 1, 9].",
+      "cell5": "Révision",
+      "cell6": "Demande : \"Citez deux animaux qui marchent et deux qui volent\".",
+      "cell7": "Réponses : \"Le chien, la chèvre (marchent) ; le pigeon, le criquet (volent)\".",
+      "cell8": "Imprégnation (Observation libre)",
+      "cell9": "Présente un poisson entier et un criquet (ou image). Demande ce qui les différencie à l'intérieur du corps.",
+      "cell10": "Les élèves touchent le poisson, sentent l'arête centrale. Ils constatent que le criquet est 'mou' ou a une carapace externe.",
+      "cell11": "Analyse (Observation dirigée)",
+      "cell12": "Fait disséquer (ou montre image) l'arête du poisson. Pose la question : \"Comment appelle-t-on ces os qui forment une ligne dans le dos ?\". Introduit les termes 'Vertébré' et 'Invertébré'.",
+      "cell13": "Identifient la colonne vertébrale. Classent les animaux : vertébrés (vache, oiseau) et invertébrés (mouche, ver).",
+      "cell14": "Synthèse et Résumé",
+      "cell15": "Résumé : \"Les animaux qui possèdent une colonne vertébrale (un squelette d'os) sont des vertébrés. Ex : le mouton, le poisson. Ceux qui n'en ont pas sont des invertébrés. Ex : le criquet, l'escargot.\".",
+      "cell16": "Recopient le résumé.",
+      "cell17": "Évaluation",
+      "cell18": "Exercice : \"Classe ces animaux en deux colonnes (Vertébrés/Invertébrés) : Cheval, Abeille, Serpent, Papillon\".",
+      "cell19": "Répondent sur l'ardoise.",
+      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+    }
+  },
+  "ce2-ist-les-organes-des-sens": {
+    "title": "CE2 - IST - Les cinq organes des sens et leurs fonctions. La vue (œil), l'ouïe (oreille), l'odorat (nez), le goût (langue), le toucher (peau). Importance pour la perception du milieu.",
+    "lastModified": "2026-02-21T23:15:00.000Z",
+    "data": {
+      "cell1": "CE2",
+      "cell2": "Découverte du monde",
+      "cell3": "45 mn",
+      [cite_start]"cell4": "DISCIPLINE: IST\n\nCB: Intégrer des démarches d'observation et d'expérimentation[cite: 9].\n\nPALIER: Palier 4 : Découvrir des aspects biologiques de l'être humain.\n\nOA: Identifier les organes des sens.\n\nOS: Nommer les 5 sens et l'organe correspondant.\n\nCONTENUS: Les 5 sens : vue, ouïe, odorat, goût, toucher.\n\nMOYENS MATÉRIELS: Objets colorés, cloche, parfum, sucre/sel, objets doux/rugueux.\n\nMOYENS PÉDAGOGIQUES: Expérimentation directe.",
+      "cell5": "Révision",
+      [cite_start]"cell6": "Pose des questions sur l'hygiène du corps : \"Pourquoi faut-il se laver ?\"[cite: 2588].",
+      "cell7": "Réponses : \"Pour être propre et éviter les maladies\".",
+      "cell8": "Imprégnation",
+      "cell9": "Bande les yeux d'un élève. Lui fait toucher un objet, sentir un parfum, écouter un bruit.",
+      "cell10": "L'élève essaie de deviner l'objet sans le voir.",
+      "cell11": "Analyse",
+      "cell12": "Demande : \"Avec quoi as-tu reconnu l'odeur ? Le bruit ? La forme ?\". Liste les organes au tableau.",
+      "cell13": "Répondent : \"Le nez pour l'odeur, l'oreille pour le bruit, la peau (main) pour le toucher\".",
+      "cell14": "Synthèse et Résumé",
+      "cell15": "Résumé : \"L'homme possède 5 sens : la vue (œil), l'ouïe (oreille), l'odorat (nez), le goût (langue) et le toucher (peau). Ils nous permettent de connaître ce qui nous entoure.\".",
+      "cell16": "Copient le résumé.",
+      "cell17": "Évaluation",
+      "cell18": "Relie l'organe au sens : Œil -> Goût / Langue -> Vue / Oreille -> Ouïe.",
+      "cell19": "Corrigent les erreurs sur l'ardoise.",
+      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+    }
+  },
+  "ce2-ist-les-parties-de-la-plante": {
+    "title": "CE2 - IST - Morphologie d'une plante verte. Identification des parties principales : racines, tige, feuilles, fleurs, fruits. Fonctions simplifiées de chaque partie.",
+    "lastModified": "2026-02-21T23:15:00.000Z",
+    "data": {
+      "cell1": "CE2",
+      "cell2": "Découverte du monde",
+      "cell3": "45 mn",
+      [cite_start]"cell4": "DISCIPLINE: IST\n\nCB: Utiliser l'observation pour découvrir le milieu[cite: 9].\n\nPALIER: Palier 2 : Découvrir quelques aspects biologiques de la plante.\n\nOA: Identifier les différentes parties d'une plante.\n\nOS: Nommer et situer les organes d'une plante déterrée.\n\nCONTENUS: Racines, tige, feuilles, fleurs, fruits.\n\nMOYENS MATÉRIELS: Une plante réelle (herbe) avec ses racines, schémas.\n\nMOYENS PÉDAGOGIQUES: Observation dirigée.",
+      "cell5": "Révision",
+      "cell6": "Demande : \"Où poussent les plantes ? De quoi ont-elles besoin ?\".",
+      "cell7": "Réponses : \"Elles poussent dans le sol. Elles ont besoin d'eau\".",
+      "cell8": "Imprégnation",
+      "cell9": "Présente la plante entière. Demande aux élèves de décrire ce qu'ils voient du haut vers le bas.",
+      "cell10": "Observent et disent : \"Il y a des feuilles vertes\", \"C'est du bois (tige)\", \"Il y a des fils en bas (racines)\".",
+      "cell11": "Analyse",
+      "cell12": "Montre chaque partie. Explique : \"Les racines fixent la plante et boivent l'eau. La tige porte les feuilles. Les fleurs deviennent des fruits.\".",
+      "cell13": "Schématisent la plante dans le cahier de brouillon en plaçant les noms.",
+      "cell14": "Synthèse et Résumé",
+      "cell15": "Résumé : \"Une plante complète comprend : les racines (dans le sol), la tige (ou le tronc), les feuilles (souvent vertes), les fleurs et les fruits qui contiennent des graines.\".",
+      "cell16": "Recopient le résumé et le schéma propre.",
+      "cell17": "Évaluation",
+      "cell18": "Question : \"Quelle partie de la plante se trouve généralement sous la terre ? À quoi sert la tige ?\".",
+      "cell19": "Réponses : \"Les racines\". \"La tige sert à porter les feuilles\".",
+      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+    }
+  },
+  "ce2-ist-les-objets-techniques-la-lampe-de-poche": {
+    "title": "CE2 - IST - Analyse d'un objet technique simple : la lampe de poche. Identification des composants : ampoule, piles, interrupteur, boîtier. Fonctionnement d'un circuit électrique simple.",
+    "lastModified": "2026-02-21T23:15:00.000Z",
+    "data": {
+      "cell1": "CE2",
+      "cell2": "Découverte du monde",
+      "cell3": "45 mn",
+      [cite_start]"cell4": "DISCIPLINE: IST\n\nCB: Identifier les différentes parties d'un objet technique [cite: 9][cite_start].\n\nPALIER: Palier 1 : Découvrir des objets et des appareils technologiques [cite: 9][cite_start].\n\nOA: Comprendre le fonctionnement d'un objet simple.\n\nOS: Démonter et nommer les composants d'une lampe de poche [cite: 9][cite_start].\n\nCONTENUS: Ampoule, piles, ressort, interrupteur, boîtier.\n\nMOYENS MATÉRIELS: Lampes de poche, piles de rechange, ampoules [cite: 9][cite_start].\n\nMOYENS PÉDAGOGIQUES: Manipulation, démontage/remontage[cite: 9, 2330].",
+      "cell5": "Révision",
+      "cell6": "Pose la question : \"Citez des objets qui utilisent de l'électricité à la maison\".",
+      "cell7": "Réponses : \"La radio, la télévision, le téléphone\".",
+      "cell8": "Imprégnation",
+      "cell9": "Allume et éteint une lampe de poche. Demande : \"Pourquoi elle s'allume ? Qu'est-ce qu'il y a dedans ?\".",
+      "cell10": "Émettent des hypothèses : \"Il y a une batterie\", \"Il y a un petit feu\".",
+      "cell11": "Analyse",
+      "cell12": "Fait démonter la lampe par groupes. Demande de nommer chaque pièce et de voir comment elles se touchent.",
+      "cell13": "Manipulent : sortent les piles, dévissent l'ampoule. Ils constatent que si on enlève une pile, ça ne marche plus.",
+      "cell14": "Synthèse et Résumé",
+      "cell15": "Résumé : \"La lampe de poche est un objet technique. Elle est composée d'un boîtier, de piles (source d'énergie), d'une ampoule et d'un interrupteur pour ouvrir ou fermer le circuit.\".",
+      "cell16": "Dessinent les composants.",
+      "cell17": "Évaluation",
+      "cell18": "Problème : \"La lampe ne s'allume pas. Quelles peuvent être les causes ?\".",
+      "cell19": "Réponses : \"Les piles sont mortes\", \"L'ampoule est grillée\", \"Les piles sont mal placées\".",
+      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+    }
 
+    }
+    
  
 }
+
 
 
 
