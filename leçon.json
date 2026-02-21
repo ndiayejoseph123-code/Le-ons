@@ -446,9 +446,76 @@
       "cell24": "Phase 24 : Observation",
       "cell25": "Lien avec l'accord du participe passé plus tard."
     }
+  },
+  
+  "ce2-grammaire-adjectif-attribut": {
+    "title": "CE2 (Étape 2, Niveau 2) - Grammaire - L'adjectif qualificatif attribut du sujet",
+    "lastModified": "2026-02-21T17:30:00Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Communication écrite (Grammaire)",
+      "cell3": "45 minutes",
+      "cell4": "DISCIPLINE: Grammaire\n\nCB: Intégrer les structures syntaxiques dans des textes descriptifs.\n\nPALIER: Palier 2.\n\nOA: Identifier les fonctions de l'adjectif.\n\nOS: Au terme de la séance, l’élève devra être capable de distinguer l'adjectif attribut de l'adjectif épithète.\n\nCONTENUS: L'adjectif attribut (après le verbe être).\n\nMOYENS MATÉRIELS: Phrases comparatives au tableau.\n\nMOYENS PÉDAGOGIQUES: Observation, comparaison, PLM.\n\nDOCUMENTATION: CEB Étape 2, Le Miroir.",
+      "cell5": "Phase 1 : Révision",
+      "cell6": "Rappelle l'adjectif épithète : « Une jolie fleur ». Où est placé l'adjectif ?",
+      "cell7": "Répondent : « Juste à côté du nom ».",
+      "cell8": "Phase 2 : Imprégnation",
+      "cell9": "Compare : 1. « La fleur est jolie. » 2. « La jolie fleur. ». Qu'est-ce qui sépare le nom de l'adjectif dans la phrase 1 ?",
+      "cell10": "Identifient le verbe 'est'.",
+      "cell11": "Phase 3 : Analyse",
+      "cell12": "Explique que quand l'adjectif est séparé du sujet par le verbe 'être' (ou un verbe d'état), il est 'Attribut du sujet'.",
+      "cell13": "Manipulation : « Les élèves semblent fatigués ». 'Fatigués' qualifie 'les élèves' par l'intermédiaire du verbe.",
+      "cell14": "Phase 4 : Synthèse",
+      "cell15": "Règle : L'adjectif attribut est séparé du nom par un verbe d'état (être, paraître, sembler, devenir).",
+      "cell16": "Écrivent la liste des verbes d'état courants.",
+      "cell17": "Phase 5 : Évaluation",
+      "cell18": "Donne la fonction de l'adjectif : « La mer est calme » (....). « Le petit chien dort » (....).",
+      "cell19": "Réponses : Calme (Attribut), Petit (Épithète).",
+      "cell20": "Phase 20 : Remédiation",
+      "cell21": "Utiliser un pont dessiné au-dessus du verbe pour relier l'attribut au sujet.",
+      "cell22": "Phase 22 : Justification didactique",
+      "cell23": "L'attribut est crucial pour les textes de type 'Portrait' où l'on décrit l'état d'une personne.",
+      "cell24": "Phase 24 : Observation",
+      "cell25": "Veiller à l'accord de l'adjectif attribut avec le sujet."
+    }
+  },
+  
+  "ce2-grammaire-complements-circonstanciels": {
+    "title": "CE2 (Étape 2, Niveau 2) - Grammaire - Les Compléments Circonstanciels (Lieu et Temps)",
+    "lastModified": "2026-02-21T17:00:00Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Communication écrite (Grammaire)",
+      "cell3": "45 minutes",
+      "cell4": "DISCIPLINE: Grammaire\n\nCB: Intégrer les structures syntaxiques dans des situations de production de textes narratifs.\n\nPALIER: Palier 1 : Produire un texte narratif.\n\nOA: Identifier les constituants de la phrase.\n\nOS: Au terme de la séance, l'élève devra être capable d'identifier et d'utiliser le CCL et le CCT pour préciser une action.\n\nCONTENUS: CCL (Où ?) et CCT (Quand ?).\n\nMOYENS MATÉRIELS: Phrases au tableau, calendrier, craies de couleurs.\n\nMOYENS PÉDAGOGIQUES: Questionnement, manipulation, PLM.\n\nDOCUMENTATION: CEB Étape 2, Le Miroir.",
+      "cell5": "Phase 1 : Révision",
+      "cell6": "Fait séparer le GS et le GV : « Le laboureur travaille dans son champ. »",
+      "cell7": "Les élèves séparent : Le laboureur (GS) / travaille dans son champ (GV).",
+      "cell8": "Phase 2 : Imprégnation",
+      "cell9": "Phrase : « Demain, les élèves iront au jardin. ». Pose : Quand iront-ils au jardin ? Où iront-ils ?",
+      "cell10": "Répondent : « Demain » (quand) et « au jardin » (où).",
+      "cell11": "Phase 3 : Analyse",
+      "cell12": "Explique que 'Demain' précise le temps (CCT) et 'au jardin' précise le lieu (CCL). Montre qu'on peut les déplacer ou les supprimer.",
+      "cell13": "Manipulation au tableau : « Au jardin, demain, les élèves iront. » La phrase a toujours un sens.",
+      "cell14": "Phase 4 : Synthèse",
+      "cell15": "Règle : Le CCT répond à la question 'Quand ?'. Le CCL répond à la question 'Où ?'. Ils servent à enrichir la phrase.",
+      "cell16": "Répètent la règle et recopient le tableau récapitulatif.",
+      "cell17": "Phase 5 : Évaluation",
+      "cell18": "Souligne en bleu le CCL et en rouge le CCT : « Le soir, Papa rentre à la maison. »",
+      "cell19": "Réponse : Le soir (rouge/CCT), à la maison (bleu/CCL).",
+      "cell20": "Phase 20 : Remédiation",
+      "cell21": "Utiliser des étiquettes 'Horloge' pour le temps et 'Boussole' pour le lieu.",
+      "cell22": "Phase 22 : Justification didactique",
+      "cell23": "Selon Le Miroir, la suppression/déplacement prouve le caractère facultatif mais informatif de ces compléments.",
+      "cell24": "Phase 24 : Observation",
+      "cell25": "Vérifier l'emploi correct dans les productions de textes de la semaine."
+    }
   }
+    
+
  
 }
+
 
 
 
