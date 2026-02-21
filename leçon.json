@@ -535,7 +535,12 @@
       "cell17": "Évaluation",
       "cell18": "Exercice : \"Classe ces animaux en deux colonnes (Vertébrés/Invertébrés) : Cheval, Abeille, Serpent, Papillon\".",
       "cell19": "Répondent sur l'ardoise.",
-      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
     }
   },
   "ce2-ist-les-organes-des-sens": {
@@ -561,7 +566,12 @@
       "cell17": "Évaluation",
       "cell18": "Relie l'organe au sens : Œil -> Goût / Langue -> Vue / Oreille -> Ouïe.",
       "cell19": "Corrigent les erreurs sur l'ardoise.",
-      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
     }
   },
   "ce2-ist-les-parties-de-la-plante": {
@@ -587,7 +597,12 @@
       "cell17": "Évaluation",
       "cell18": "Question : \"Quelle partie de la plante se trouve généralement sous la terre ? À quoi sert la tige ?\".",
       "cell19": "Réponses : \"Les racines\". \"La tige sert à porter les feuilles\".",
-      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
     }
   },
   "ce2-ist-les-objets-techniques-la-lampe-de-poche": {
@@ -613,13 +628,17 @@
       "cell17": "Évaluation",
       "cell18": "Problème : \"La lampe ne s'allume pas. Quelles peuvent être les causes ?\".",
       "cell19": "Réponses : \"Les piles sont mortes\", \"L'ampoule est grillée\", \"Les piles sont mal placées\".",
-      "cell20": "", "cell21": "", "cell22": "", "cell23": "", "cell24": "", "cell25": ""
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
     }
-
-    }
-    
+  }  
  
 }
+
 
 
 
