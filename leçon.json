@@ -190,9 +190,43 @@
       "cell24": "",
       "cell25": ""
     }
+  },
+  
+  "ce2-etape-2-niveau-2-mathematiques-strategies-de-verification-d-erreurs-donnees-": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques - Stratégies de vérification d’erreurs : données utiles, inutiles et manquantes",
+    "lastModified": "2026-02-21T10:44:51.596Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités de résolution de problèmes",
+      "cell3": "60 minutes",
+      "cell4": "DISCIPLINE: Mathématiques\n\nCB: Intégrer des données, des consignes et des questions d’un énoncé mathématique ainsi que les démarches de raisonnement dans des situations de recherche de solutions appropriées\n\nPALIER: Palier 5 : Intégrer des données, des consignes et des questions d’un énoncé mathématique ainsi que les démarches de raisonnement dans des situations de recherche de solutions appropriées\n\nOA: Trouver l’erreur dans un énoncé ou une résolution\n\nOS: Au terme de la séance, l’élève sera capable d’identifier et de corriger une erreur (donnée manquante, donnée inutile ou incohérence) dans un énoncé de problème\n\nCONTENUS: Stratégies de vérification d’erreurs : données utiles, inutiles et manquantes\n\nMOYENS MATÉRIELS: Tableau noir, ardoises, énoncés de problèmes « piégés » (données absurdes ou incomplètes)\n\nMOYENS PÉDAGOGIQUES: Observation, interrogation, recherche individuelle, travail de groupe, démarche d'éveil\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir d’Assane Ndiaye",
+      "cell5": "Phase 1 : Calcul mental et Révision",
+      "cell6": "Propose un calcul rapide (ex : multiplier par 11 ou tables de 7 et 8). Rappelle les composants d'un problème : « De quoi a-t-on besoin pour répondre à une question mathématique ? ».",
+      "cell7": "Effectuent les calculs sur l'ardoise (PLM). Répondent : « Il faut une histoire, des nombres (données) et une question ».",
+      "cell8": "Phase 2 : Imprégnation (Mise en situation)",
+      "cell9": "Présente un énoncé incohérent au tableau : « Un berger a 25 moutons et 10 chèvres. Quel est l'âge du berger ? ». Pose la question : « Pouvez-vous résoudre ce problème ? Pourquoi ? ».",
+      "cell10": "Lisent silencieusement, puis à haute voix. Constatent l'impossibilité de répondre : « Les nombres ne servent pas à trouver l'âge, il y a une erreur dans l'énoncé ».",
+      "cell11": "Phase 3 : Analyse (Exploration et Recherche)",
+      "cell12": "Organise un travail de groupe avec plusieurs énoncés contenant différents types d'erreurs (données manquantes, données inutiles, question sans rapport). Demande de classer l'erreur trouvée.",
+      "cell13": "En groupes, ils analysent les textes. Ils identifient si un nombre manque pour calculer, ou si un nombre est présent mais inutile. Ils tentent de proposer une correction pour rendre l'énoncé valide.",
+      "cell14": "Phase 4 : Synthèse (Institutionnalisation)",
+      "cell15": "Aide les élèves à bâtir le résumé « Je retiens » : pour qu'un énoncé soit correct, il faut que les données permettent de répondre exactement à la question. On peut trouver trois types d'erreurs : les données inutiles, les données manquantes ou les données sans lien avec la question.",
+      "cell16": "Participent à l'élaboration de la synthèse, répètent les types d'erreurs et recopient le résumé dans leur cahier d'outils.",
+      "cell17": "Phase 5 : Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose un exercice individuel : « Voici un énoncé : Papa achète 3 pains à 150F l'un. Il a 5 enfants. Combien a-t-il dépensé ? Entoure la donnée inutile et résous le problème ».",
+      "cell19": "Réalisent la tâche dans leur cahier de devoirs : identifient « 5 enfants » comme donnée inutile et effectuent le calcul 150 x 3.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
   }
 
+
 }
+
 
 
 
