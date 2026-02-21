@@ -286,9 +286,141 @@
       "cell24": "",
       "cell25": ""
     }
+  },
+  
+  "ce2-etape-2-niveau-2-mathematiques-le-calcul-des-dimensions-du-rectangle-longueu": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques - Le calcul des dimensions du rectangle : Longueur = (Périmètre : 2) – Largeur ; Largeur = (Périmètre : 2) – Longueur.",
+    "lastModified": "2026-02-21T11:59:11.602Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités de mesure.",
+      "cell3": "60 minutes (30 mn pour l'acquisition et 30 mn pour la consolidation-évaluation)",
+      "cell4": "DISCIPLINE: Mathématiques\n\nCB: Intégrer les notions de longueur, de capacité, de masse, de durée, d’aire et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problème de mesure et de calcul.\n\nPALIER: Palier 6 : Intégrer les notions de longueur, de capacité, de masse, de durée, d’aire et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problème de mesure et de calcul.\n\nOA: Calculer une dimension à partir du périmètre.\n\nOS: Au terme de la leçon, l’élève devra être capable de calculer la longueur ou la largeur d’un rectangle à partir de son périmètre.\n\nCONTENUS: Le calcul des dimensions du rectangle : Longueur = (Périmètre : 2) – Largeur ; Largeur = (Périmètre : 2) – Longueur.\n\nMOYENS MATÉRIELS: Tableau noir, ardoises, craies, cahiers d'exercices, règle graduée.\n\nMOYENS PÉDAGOGIQUES: Observation, interrogation, Procédé Lamartinière (PLM), résolution de problèmes.\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir (Assane Ndiaye), Cahier d'exercices (Modèle PAAME).",
+      "cell5": "Calcul mental et Révision",
+      "cell6": "Propose un exercice de calcul rapide (ex : ajouter ou soustraire 9 ou 11 à un nombre entier). Demande ensuite de rappeler la formule du périmètre du rectangle : « Comment calcule-t-on le périmètre d'un rectangle ? ».",
+      "cell7": "Effectuent les calculs sur l'ardoise (PLM). Rappellent la formule : Périmètre = (Longueur + Largeur) × 2.",
+      "cell8": "Imprégnation (Mise en situation)",
+      "cell9": "Présente une situation concrète : « Le périmètre d'un jardin rectangulaire est de 30 m. Sa longueur est de 10 m. Quelle est sa largeur ? » Fait lire l'énoncé et pose des questions de compréhension.",
+      "cell10": "Lisent silencieusement puis à haute voix. Identifient les données : Périmètre = 30 m ; Longueur = 10 m. Comprennent qu'il faut chercher la largeur.",
+      "cell11": "Analyse (Exploration et Résolution)",
+      "cell12": "Guide les élèves par le questionnement : « Si (L + l) × 2 = 30, que vaut (L + l) seul ? Comment appelle-t-on la moitié du périmètre ? » Demande de trouver la largeur en soustrayant la longueur du demi-périmètre.",
+      "cell13": "Calculent le demi-périmètre : 30 m : 2 = 15 m. Ils en déduisent la largeur en faisant : 15 m (demi-périmètre) – 10 m (longueur) = 5 m.",
+      "cell14": "Synthèse (Institutionnalisation)",
+      "cell15": "Aide à bâtir la règle : « Pour trouver une dimension (L ou l) du rectangle, on cherche d'abord le demi-périmètre (P : 2), puis on soustrait la dimension connue ».",
+      "cell16": "Participent à l'élaboration du résumé « Je retiens ». Mémorisent les formules : Longueur = Demi-périmètre – largeur ; Largeur = Demi-périmètre – longueur.",
+      "cell17": "Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose des exercices individuels : « 1. Un rectangle a un périmètre de 20 cm et une largeur de 4 cm. Trouve sa longueur. 2. Calcule la largeur d'un rectangle dont le demi-périmètre est de 19 cm et la longueur de 12 cm ».",
+      "cell19": "Réalisent les tâches dans leur cahier de devoirs : 1. (20 : 2) – 4 = 6 cm. 2. 19 – 12 = 7 cm.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
+  },
+  
+  "ce2-etape-2-niveau-2-mathematiques-activites-de-mesure-prix-d-achat-prix-de-vent": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques (Activités de mesure) - Prix d’achat, prix de vente, bénéfice.",
+    "lastModified": "2026-02-21T12:04:40.815Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Mathématiques (Mesure).",
+      "cell3": "60 minutes (30 mn acquisition + 30 mn consolidation-évaluation)",
+      "cell4": "DISCIPLINE: Mathématiques (Activités de mesure)\n\nCB: Intégrer les notions de longueur, de capacité, de masse, de durée, d’aire et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problèmes de mesure et de calcul.\n\nPALIER: Palier 5 : Intégrer les notions de masses, de durée et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problèmes de mesure, de calcul de prix et de parts.\n\nOA: Calculer des prix.\n\nOS: Au terme de la séance, l’élève devra être capable de calculer le prix d’achat, le prix de vente et le bénéfice dans une situation de transaction commerciale simple.\n\nCONTENUS: Prix d’achat, prix de vente, bénéfice.\n\nMOYENS MATÉRIELS: Tableau noir, ardoises, craies, monnaie factice, objets de la \"boutique de classe\" (cahiers, citrons, boîtes).\n\nMOYENS PÉDAGOGIQUES: Observation, interrogation, simulation (jeu de rôle), Procédé Lamartinière (PLM), résolution de problèmes.\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir (Assane Ndiaye), Cahier d'exercices PAAME.",
+      "cell5": "Phase 1 : Calcul mental et Révision",
+      "cell6": "Propose un calcul de soustraction rapide : « Maman a 1000 F, elle achète du savon pour 400 F. Combien lui reste-t-il ? ». Fait réviser l'addition et la soustraction des nombres entiers sur l'ardoise (PLM).",
+      "cell7": "Effectuent les calculs mentalement et inscrivent les résultats sur l'ardoise : « 600 F ». Ils effectuent les opérations posées demandées pour s'échauffer l'esprit.",
+      "cell8": "Phase 2 : Imprégnation (Mise en situation)",
+      "cell9": "Présente une situation de transaction au tableau : « Modou achète un sac de 100 citrons à 2000 F. Il les revend tous et encaisse 3500 F. A-t-il gagné ou perdu de l'argent ? ».",
+      "cell10": "Lisent l'énoncé silencieusement puis à haute voix. Ils constatent que Modou a reçu plus d'argent qu'il n'en a dépensé au départ.",
+      "cell11": "Phase 3 : Analyse (Exploration et Résolution)",
+      "cell12": "Guide l'analyse par des questions : « Comment appelle-t-on le prix payé par Modou au début ? (Prix d'achat). Comment appelle-t-on l'argent qu'il reçoit après ? (Prix de vente). Quelle opération faire pour trouver ce qu'il a gagné ? ».",
+      "cell13": "Posent l'opération sur l'ardoise : 3500 F - 2000 F = 1500 F. Ils découvrent que l'argent gagné s'appelle le bénéfice et que le prix de vente est supérieur au prix d'achat.",
+      "cell14": "Phase 4 : Synthèse (Institutionnalisation)",
+      "cell15": "Aide les élèves à bâtir la règle : « On réalise un bénéfice lorsque le prix de vente est supérieur au prix d'achat ». Formule : Bénéfice = Prix de vente - Prix d'achat.",
+      "cell16": "Participent à l'élaboration du résumé « Je retiens », le répètent et le recopient dans leur cahier d'outils de mathématiques.",
+      "cell17": "Phase 5 : Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose des exercices individuels : « 1. Calcule le bénéfice d'une marchande qui achète un panier de mangues à 3750 F et le revend 5000 F. 2. Un commerçant a fait un bénéfice de 2000 F sur une vente de 10000 F, quel était son prix d'achat ? ».",
+      "cell19": "Réalisent les calculs dans leur cahier de devoirs : 1. 5000 F - 3750 F = 1250 F. 2. 10000 F - 2000 F = 8000 F. Ils participent à la correction collective.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
+  },
+  
+  "ce2-etape-2-niveau-2-mathematiques-activites-de-mesure-les-parts-egales": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques (Activités de mesure) - Les parts égales.",
+    "lastModified": "2026-02-21T12:08:38.403Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités de mesure.",
+      "cell3": "60 minutes (30 mn pour l'acquisition et 30 mn pour la consolidation-évaluation)",
+      "cell4": "DISCIPLINE: Mathématiques (Activités de mesure)\n\nCB: Intégrer les notions de masses, de durée et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problèmes de mesure, de calcul de prix et de parts.\n\nPALIER: Palier 5 : Intégrer les notions de masses, de durée et de monnaie (...) dans des situations de résolution de problèmes de mesure, de calcul de prix et de parts.\n\nOA: Effectuer des partages.\n\nOS: Au terme de la leçon, l’élève devra être capable de résoudre des problèmes de partage en parts égales.\n\nCONTENUS: Les parts égales.\n\nMOYENS MATÉRIELS: Objets concrets (billes, bâtonnets), ardoises, craies, cahiers, énoncés de problèmes.\n\nMOYENS PÉDAGOGIQUES: Observation, manipulation, interrogation, Procédé Lamartinière (PLM), résolution de problèmes.\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir (Assane Ndiaye).",
+      "cell5": "Calcul mental et Révision",
+      "cell6": "Propose des exercices de division rapide (ex: 20 : 5) et fait rappeler les tables de multiplication (2, 3, 4 et 5) sur l'ardoise (PLM).",
+      "cell7": "Effectuent les calculs rapidement sur l'ardoise et rappellent les résultats des tables demandées.",
+      "cell8": "Imprégnation (Mise en situation)",
+      "cell9": "Présente une situation concrète : « Cinq enfants veulent se partager 150 billes. Tous les enfants doivent avoir le même nombre de billes. Combien de billes recevra chaque enfant ? ».",
+      "cell10": "Lisent l'énoncé, identifient qu'il s'agit d'un partage où chacun doit avoir la même chose (équité).",
+      "cell11": "Analyse (Exploration et Résolution)",
+      "cell12": "Demande aux élèves de chercher l'opération nécessaire. Guide la réflexion : « Si on connaît le total à partager et le nombre de parts, quelle opération fait-on ? ». Fait manipuler des objets si nécessaire pour les petits nombres.",
+      "cell13": "Constatent que pour que les parts soient égales, il faut diviser le total par le nombre de personnes. Ils posent l'opération : 150 : 5 = 30.",
+      "cell14": "Synthèse (Institutionnalisation)",
+      "cell15": "Aide les élèves à bâtir la règle : « Pour trouver la valeur d'une part égale, on divise la quantité totale par le nombre de parts ». Formule : Total à partager : Nombre de parts = Valeur de la part.",
+      "cell16": "Participent à l'élaboration de la synthèse, répètent la règle et la recopient dans leur cahier d'outils.",
+      "cell17": "Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose des exercices individuels (rubrique \"Je m'évalue\") : « 1. Partage 2,5 litres de jus entre 4 personnes. 2. Répartis 14 kg de viande entre 8 familles ».",
+      "cell19": "Réalisent les calculs dans leur cahier de devoirs : 1. 2,5 : 4 = 0,625 l ; 2. 14 : 8 = 1,750 kg (ou 1750 g).",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
+  },
+  
+  "ce2-etape-2-niveau-2-mathematiques-activites-de-mesure-les-parts-proportionnelle": {
+    "title": "CE2 (Étape 2, Niveau 2) - Mathématiques (Activités de mesure) - Les parts proportionnelles (l’une des parts est multiple de l’autre).",
+    "lastModified": "2026-02-21T12:11:22.613Z",
+    "data": {
+      "cell1": "CE2 (Étape 2, Niveau 2)",
+      "cell2": "Activités de mesure.",
+      "cell3": "60 minutes (Acquisition et Consolidation-Évaluation)",
+      "cell4": "DISCIPLINE: Mathématiques (Activités de mesure)\n\nCB: Intégrer les notions de masses, de durée et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problèmes de mesure, de calcul de prix et de parts.\n\nPALIER: Palier 5 : Intégrer les notions de masses, de durée et de monnaie ainsi que des techniques d’utilisation d’instruments conventionnels et les opérations arithmétiques dans des situations de résolution de problèmes de mesure, de calcul de prix et de parts.\n\nOA: Effectuer des partages.\n\nOS: Au terme de la séance, l’élève devra être capable de résoudre des problèmes de partage en parts proportionnelles (lorsque l’une des parts est multiple de l’autre).\n\nCONTENUS: Les parts proportionnelles (l’une des parts est multiple de l’autre).\n\nMOYENS MATÉRIELS: Tableau noir, ardoises, craies, cahiers, schématisation par segments de ligne.\n\nMOYENS PÉDAGOGIQUES: Observation, interrogation, schématisation, Procédé Lamartinière (PLM), résolution de problèmes.\n\nDOCUMENTATION: Guide pédagogique CEB Étape 2, Le Miroir (Assane Ndiaye).",
+      "cell5": "Phase 1 : Révision (Mise en train)",
+      "cell6": "Propose une révision sur les parts égales (OS précédent) sur les ardoises (PLM) : « Partage 150 billes entre 5 enfants. Combien reçoit chaque enfant ? ».",
+      "cell7": "Effectuent le calcul (150 : 5 = 30) et rappellent la règle : pour trouver une part égale, on divise le total par le nombre de parts.",
+      "cell8": "Phase 2 : Imprégnation (Mise en situation)",
+      "cell9": "Présente une situation de partage proportionnel : « Abdoulaye et Lamine se partagent 24 litres d'eau. Lamine reçoit 2 fois plus d'eau qu'Abdoulaye. Quelle est la part de chacun ? ». Fait lire et poser des questions de compréhension.",
+      "cell10": "Lisent l'énoncé et identifient que les parts ne sont pas égales : l'un a une quantité qui est le double de l'autre.",
+      "cell11": "Phase 3 : Analyse (Exploration et Résolution)",
+      "cell12": "Guide les élèves selon la méthode des segments : 1. Représenter la relation (1 part pour Abdoulaye, 2 parts pour Lamine). 2. Chercher le nombre total de parties égales (1 + 2 = 3). 3. Diviser la somme totale par ce nombre.",
+      "cell13": "Dessinent les segments sur leurs ardoises. Ils calculent la valeur d'une partie (24 : 3 = 8), puis les parts respectives : Abdoulaye reçoit 8 L et Lamine reçoit 16 L (8 x 2).",
+      "cell14": "Phase 4 : Synthèse (Institutionnalisation)",
+      "cell15": "Aide à bâtir la règle « Je retiens » : Pour résoudre un partage proportionnel, on représente les quantités par des segments, on cherche le nombre total de parties égales, puis on divise le total par ce nombre pour trouver la valeur d'une partie.",
+      "cell16": "Participent à l'élaboration du résumé, le répètent et le recopient dans leur cahier d'outils.",
+      "cell17": "Phase 5 : Évaluation (Contrôle et Transfert)",
+      "cell18": "Propose un exercice individuel : « Un jardinier a 40 kg de fruits (bananes et citrons). Il y a 3 fois plus de citrons que de bananes. Trouve la masse de chaque fruit ». Circule pour soutenir les élèves en difficulté.",
+      "cell19": "Résolvent le problème dans leur cahier de devoirs : 1. Total des parties = 1 + 3 = 4. 2. Valeur d'une partie (bananes) = 40 : 4 = 10 kg. 3. Citrons = 10 x 3 = 30 kg.",
+      "cell20": "",
+      "cell21": "",
+      "cell22": "",
+      "cell23": "",
+      "cell24": "",
+      "cell25": ""
+    }
   }
+
+
+
     
 }
+
 
 
 
