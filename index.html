@@ -369,7 +369,7 @@
     function verifyDailyPassword() {
       const input = parseInt(document.getElementById('passInput').value);
       const today = new Date().getDate();
-      const dailyCode = today * 7;
+      const dailyCode = today * 24;
 
       if (input === dailyCode) {
         document.getElementById('lockScreen').style.display = 'none';
